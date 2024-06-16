@@ -1,0 +1,60 @@
+.search_form input[type='search'] {
+    width: 330px;
+}
+
+.w3_navigation,
+.w3ls-info-about h4 {
+    background: #0f2453;
+}
+
+.price-gd-top h4,
+.model a {
+    background-color: #0f2453;
+    color: white;
+}
+
+.backgroundimg h3 {
+    font-weight: 900;
+    font-size: 23px;
+    text-shadow: 0 0 3px #ffff00, 0 0 5px #001aff;
+}
+p.logo_w3l_agile_caption{
+    color:#ffcc00;
+}
+
+.price-selet h3 span {
+	color: #0f2453;
+
+}
+.cbp-ig-grid li>.w3_grid_effect:hover {
+    background: #0f2453;
+}
+.cbp-ig-grid li>.w3_grid_effect:hover .cbp-ig-title {
+    color: #f1cb00;
+}
+
+/*--responsive--*/
+
+/* For Webkit (Chrome, Safari, Opera) */
+::-webkit-scrollbar {
+	width: 10px;
+	/* Set width of the scroll bar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #0f2453;
+	/* Set background color of the track */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #2f529e;
+	/* Set color of the thumb */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #0f2453;
+	/* Set color of the thumb on hover */
+}
